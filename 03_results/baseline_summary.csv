@@ -1,0 +1,10 @@
+model,dataset,zeroshot,cot,fewshot
+llama31,MedQA,0.5860172820109977,0.6135113904163394,0.5137470542026709
+llama31,HealthBench,,,
+llama31,ReMedE,,,
+mistral7b,MedQA,,,
+mistral7b,HealthBench,,,
+mistral7b,ReMedE,,,
+qwen2_7b,MedQA,,,
+qwen2_7b,HealthBench,,,
+qwen2_7b,ReMedE,,,

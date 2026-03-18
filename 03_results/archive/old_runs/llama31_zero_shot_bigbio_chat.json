@@ -1,0 +1,6367 @@
+[
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "gold": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "gold": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "gold": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "gold": "C",
+    "prediction": "C",
+    "correct": true
+  }
+]
