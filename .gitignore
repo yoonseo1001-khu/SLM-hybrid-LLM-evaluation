@@ -13,3 +13,9 @@ __pycache__/
 
 # temp
 *.tmp
+
+00_data/raw/
+00_data/processed/
+*.json
+*.csv
+*.pt
