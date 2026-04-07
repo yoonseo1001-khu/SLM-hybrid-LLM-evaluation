@@ -1,0 +1,21 @@
+MedQA Triplet Learning Results
+
+Baseline:
+- Loss: ~1.00 → 0.98
+- Observation: Minimal learning
+
+Hybrid (Hard Negative):
+- Loss: 0.28 → 0.10
+- Observation: Significant improvement
+
+Curriculum Learning:
+- Stage1 Loss: 1.21
+- Stage2 Loss: 0.09
+- Observation: Progressive learning effect
+
+Accuracy:
+- Final Accuracy: ~0.51
+
+Key Insight:
+Hard negative sampling significantly improves optimization.
+Curriculum learning stabilizes training.

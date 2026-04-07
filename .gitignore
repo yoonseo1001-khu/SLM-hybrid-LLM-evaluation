@@ -2,20 +2,30 @@
 hf_cache/
 __pycache__/
 
-# notebook checkpoints
+# notebook
 .ipynb_checkpoints/
 
 # logs
 *.log
+*.out
+*.err
 
-# large result files
-03_results/**/*.json
-
-# temp
+# model / temp
+*.pkl
+*.pt
 *.tmp
+*.save
 
+# raw data (큰 파일)
 00_data/raw/
 00_data/processed/
-*.json
-*.csv
-*.pt
+
+# large splits (train/test/val만 제외)
+00_data/splits/*/train.csv
+00_data/splits/*/test.csv
+00_data/splits/*/val.csv
+00_data/splits/*/calibration.csv
+
+# results (optional large)
+03_results/*.json
+03_results/*.png

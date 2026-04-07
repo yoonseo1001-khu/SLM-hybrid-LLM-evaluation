@@ -1,0 +1,89 @@
+import json
+import torch
+from torch.utils.data import Dataset, DataLoader
+from transformers import AutoTokenizer, AutoModel
+import torch.nn.functional as F
+
+########################################
+# 1. Dataset
+########################################
+class TripletDataset(Dataset):
+    def __init__(self, path):
+        self.data = json.load(open(path))
+
+    def __len__(self):
+        return len(self.data)
+
+    def clean(self, x):
+        # 🔥 모든 타입 안전 처리
+        if x is None:
+            return ""
+        if isinstance(x, list):
+            return " ".join(map(str, x))
+        return str(x)
+
+    def __getitem__(self, idx):
+        item = self.data[idx]
+
+        q = self.clean(item["question"])
+        p = self.clean(item["positive"])
+        n = self.clean(item["negative"])
+
+        return q, p, n
+
+
+########################################
+# 2. Model
+########################################
+class Encoder(torch.nn.Module):
+    def __init__(self, model_name="bert-base-uncased"):
+        super().__init__()
+        self.encoder = AutoModel.from_pretrained(model_name)
+
+    def forward(self, input_ids, attention_mask, **kwargs):
+        out = self.encoder(
+            input_ids=input_ids,
+            attention_mask=attention_mask
+        )
+        return out.last_hidden_state[:, 0]  # CLS
+
+
+########################################
+# 3. Setup
+########################################
+device = "cuda" if torch.cuda.is_available() else "cpu"
+print("Using device:", device)
+
+tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
+model = Encoder().to(device)
+
+dataset = TripletDataset("../04_synthesis/medqa_triplets_llama_full.json")
+loader = DataLoader(dataset, batch_size=8, shuffle=True)
+
+optimizer = torch.optim.AdamW(model.parameters(), lr=2e-5)
+
+
+########################################
+# 4. Training Loop
+########################################
+for epoch in range(3):
+    print(f"\nEpoch {epoch}")
+
+    for step, (q, p, n) in enumerate(loader):
+
+        # 🔥 tokenizer 입력 (문제 완전 해결)
+        q_enc = tokenizer(
+            list(q),
+            padding=True,
+            truncation=True,
+            return_tensors="pt"
+        )
+        p_enc = tokenizer(
+            list(p),
+            padding=True,
+            truncation=True,
+            return_tensors="pt"
+        )
+        n_enc = tokenizer(
+            list(n),
+            paddin
